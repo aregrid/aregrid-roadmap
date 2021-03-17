@@ -2,7 +2,7 @@
     <div class="">
         <div class="navbar">
             <h3>Z Roadmap</h3>
-            <el-button class="btn-share btn-common" type="primary" @click="onClickBtnShare"><i class="el-icon-link"></i>共享</el-button>
+            <!-- <el-button class="btn-share btn-common" type="primary" @click="onClickBtnShare"><i class="el-icon-link"></i>共享</el-button> -->
         </div>
         <div class="caledar-view" ref="caledarView" @mousemove="onMouseMoveForCaledarView">
             <div class="caledar-view__item" v-for="timeNode in timeNodes">
