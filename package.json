@@ -1,6 +1,6 @@
 {
   "name": "z-roadmap",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "dev": "NODE_ENV=development vite",
     "build": "NODE_ENV=production vite build"
