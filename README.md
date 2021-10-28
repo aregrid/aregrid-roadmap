@@ -4,7 +4,8 @@ Tools for creating roadmaps
 
 # preview
 
-https://fancylife.github.io/z-roadmap/
+https://cg0101.github.io/z-roadmap/
+
 # quick start
 
 ``` shell
