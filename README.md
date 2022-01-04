@@ -1,14 +1,14 @@
-# z-roadmap
+# roadmap
 
 Tools for creating roadmaps
 
 # preview
 
-https://cg0101.github.io/z-roadmap/
+https://cg0101.github.io/roadmap/
 
 # quick start
 
-``` shell
+```shell
 npm run dev
 npm run build
 ```
@@ -17,5 +17,4 @@ npm run build
 
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2013-present, zhangchi 
-
+Copyright (c) 2013-present, zhangchi
